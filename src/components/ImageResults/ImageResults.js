@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import PropTypes from 'prop-types';
-import GridList from '@mui/material/GridList';
-import GridListTile from '@mui/material/GridListTile';
+import GridList from '@material-ui/core/GridList';
+import GridListTile from '@material-ui/core/GridListTile';
 import IconButton from '@mui/material/IconButton';
 import ZoomIn from '@mui/icons-material/ZoomIn';
 
